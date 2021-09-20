@@ -1,0 +1,11 @@
+header {
+    text-align: center;
+    background-color: navy;
+    color: oldlace;
+}
+
+#container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
